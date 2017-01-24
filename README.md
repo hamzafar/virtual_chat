@@ -11,3 +11,49 @@ The data set can be downloaded from the [link](http://www.msmarco.org/dataset.as
 
 
 # Python Note-book Description
+
+
+### Dealing without Imbalance class: ###
+**Scoring history:**
+
+|Model| Bag of Words | tf-idf |
+|-----|-------------|-------|
+|Gradient BM|<img src= >|<img src= >|
+|Deep Learning|<img src= >|<img src= >|
+
+**ROC:**
+
+|Model| Bag of Words | tf-idf | 
+|-----|-------------|-------|
+|Gradient BM|<img src= >|<img src= >|
+|Deep Learning|<img src= >|<img src= >|
+
+**Aera Under the Curve:**
+
+|Model| Bag of Words | tf-idf | 
+|-----|-------------|-------|
+|Gradient BM|*Training AUC:* 0.868, *Validation AUC:*  0.518|*Training AUC:* 0.987, *Validation AUC:*  0.526|
+|Deep Learning|*Training AUC:* 0.927, *Validation AUC:*  0.556|*Training AUC:* 0.658, *Validation AUC:*  0.536|
+
+### Dealing with Imbalance class: ###
+**Scoring history:**
+
+|Model| Bag of Words | tf-idf |
+|-----|-------------|-------|
+|Gradient BM|<img src= >|<img src= >|
+|Deep Learning|<img src= >|<img src= >|
+
+**ROC:**
+
+|Model| Bag of Words | tf-idf | 
+|-----|-------------|-------|
+|Gradient BM|<img src= >|<img src= >|
+|Deep Learning|<img src= >|<img src= >|
+
+**Aera Under the Curve:**
+
+|Model| Bag of Words | tf-idf | 
+|-----|-------------|-------|
+|Gradient BM|*Training AUC:* 0.954, *Validation AUC:*  0.742|*Training AUC:* 0.998, *Validation AUC:*  0.772|
+|Deep Learning|*Training AUC:* 0.998, *Validation AUC:*  0.802|*Training AUC:* 0.763, *Validation AUC:*  0.614|
+
