@@ -47,7 +47,7 @@ The data set can be downloaded from the [link](http://www.msmarco.org/dataset.as
 
 |Model| Bag of Words | tf-idf | 
 |-----|-------------|-------|
-|Gradient BM|<img src= >|<img src= >|
+|Gradient BM|<img src= https://raw.githubusercontent.com/hamzafar/image_repo/master/marco/bg_gbm_roc_imb.PNG>|<img src= https://raw.githubusercontent.com/hamzafar/image_repo/master/marco/bg_dl_roc_img.PNG>|
 |Deep Learning|<img src= >|<img src= >|
 
 **Aera Under the Curve:**
